@@ -1,5 +1,0 @@
-alphabets
-
-a
-b
-c
